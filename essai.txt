@@ -1,1 +1,5 @@
-Essaie de commande
+Commandes a faire:
+
+- git add .
+- git commit -m "<le message que tu veux>"
+- git push origin main
